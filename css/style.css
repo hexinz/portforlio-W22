@@ -311,7 +311,7 @@ figcaption {
     padding: 30px;
 }
 
-#family{
+.family-p{
 	text-align: center;
 	font-weight: bold;
 	color: darkred;
@@ -451,6 +451,7 @@ figcaption {
 	max-height: 25vh;
 	overflow: scroll;
 	border: 2px solid lightblue;
+	overflow-y: auto;
 }
 
 
